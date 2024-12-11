@@ -4,8 +4,8 @@
 - 🎓 Formado em Análise e desenvolvimento de Sistemas
 - 💡 Em constante desenvolvimento profissional e pessoal
 - 📊 Transformando informações, em valor
-- 👯 Juntos Somos Mais Fortes
-- ⚡ O Céu Não é o Limite
+- 👯 Juntos somos mais fortes
+- ⚡ O Céu não é o limite
 
 <br>
 
