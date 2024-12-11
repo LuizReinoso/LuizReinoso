@@ -1,25 +1,10 @@
-<table align="center">
-  <tr>
-    <td style="padding: 0; margin: 0; text-align: left;">
-      <h3>Olá! Eu sou o Bruno Rodrigues 👋</h3>
-      <ul style="list-style-type: none; margin: 0; padding: 0;">
-        <li>🌱 Estou Estudando Análise e Desenvolvimento de Sistemas</li>
-        <li>💡 Estudo e Pesquiso Métodos de Desenvolvimento</li>
-        <li>👯 Juntos Somos Mais Fortes</li>
-        <li>⚡ O Céu Não é o Limite</li>
-      </ul>
-    </td>
-    <td align="center" style="padding: 0;">
-      <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" height="150" width="305" style="border: 3px solid white;">
-    </td>
-  </tr>
-</table>
 
-
-
-
-
-
+## Olá! Eu sou o Bruno Rodrigues 👋
+  
+- 🎓 Formado em Análise e desenvolvimento de Sistemas
+- 💡 Estudo e Pesquiso Métodos de Desenvolvimento
+- 👯 Juntos Somos Mais Fortes
+- ⚡ O Céu Não é o Limite
 
 <br>
 
