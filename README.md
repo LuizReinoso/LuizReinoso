@@ -2,7 +2,8 @@
 ## Olá! Eu sou o Bruno Rodrigues 👋
   
 - 🎓 Formado em Análise e desenvolvimento de Sistemas
-- 💡 Estudo e Pesquiso Métodos de Desenvolvimento
+- 💡 Em constante desenvolvimento profissional e pessoal
+- 📊 Transformando informações, em valor
 - 👯 Juntos Somos Mais Fortes
 - ⚡ O Céu Não é o Limite
 
