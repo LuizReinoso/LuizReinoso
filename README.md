@@ -25,12 +25,16 @@
   <img align="center"  height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center"  height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="center"  height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center"  height="50" width="80" src="https://github.com/user-attachments/assets/182d90d0-cbc4-40ed-82da-be816b930637"/>
+     
 </div>  
+
 
    ##
   
 <div>
-<a href="https://www.linkedin.com/in/bruno-rodrigues-ba25b6209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/bruno-rodrigues-ba25b6209![Microsoft-Power-BI-Logo](https://github.com/user-attachments/assets/70688a96-12c3-40ca-957c-82d1fcc7bd8d)
+/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  <a href = "mailto:brunoluiz_28@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   </div>  
