@@ -6,7 +6,6 @@
 - 📊 Transformando informações, em valor
 - 📗 Ler, é viver varias vidas em uma só
 - 👯 Juntos somos mais fortes
-- ⚡ O Céu não é o limite
 
 <br>
 
